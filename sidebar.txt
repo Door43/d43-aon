@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aon:home|Door43 (aon)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aon|d43-aon repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aon/archive/master.zip|d43-aon.zip]]
+
+**Recent Changes**
+{{changes>ns = aon}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aon|Ethnologue data]]
+
